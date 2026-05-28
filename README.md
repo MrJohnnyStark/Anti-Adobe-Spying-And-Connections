@@ -12,7 +12,7 @@ Block Adobe telemetry, tracking, and unwanted connections using DNS filtering.
 
 Используйте этот список для DNS-фильтрации с помощью таких инструментов, как Pi-Hole, AdGuard и других.
 
-**RAW:** [Скопировать ссылку для блокировки](https://raw.githubusercontent.com/AristarhUcolov/Anti-Adobe-Spying-And-Connections/refs/heads/main/hosts.txt)
+**RAW:** [Скопировать ссылку для блокировки](https://raw.githubusercontent.com/ClearNetSky/Anti-Adobe-Spying-And-Connections/refs/heads/main/hosts.txt)
 
 ---
 
@@ -24,7 +24,7 @@ This method prevents Adobe servers from accessing your network and collecting yo
 
 Use this list for DNS filtering with tools like Pi-Hole, AdGuard, and more.
 
-**RAW:** [Copy Link](https://raw.githubusercontent.com/AristarhUcolov/Anti-Adobe-Spying-And-Connections/refs/heads/main/hosts.txt)
+**RAW:** [Copy Link](https://raw.githubusercontent.com/ClearNetSky/Anti-Adobe-Spying-And-Connections/refs/heads/main/hosts.txt)
 
 ---
 
